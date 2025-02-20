@@ -123,9 +123,9 @@ I have a strong practical and theoretical experience in the development of Large
 
 The following links include detailed descriptions within each GitHub repository:
 
-| 🚀 [Customer Segmentation using K-Means Clustering](https://github.com/Shankar-Gurjar/Customer_Segmentation))| 👨🏻‍💻 [Recommender System using machine learning](https://github.com/Shankar-Gurjar/Movie-Recommendation-on-IMDB-Dataset)| 
+| 🚀 [Customer Segmentation using K-Means Clustering](https://github.com/SayedMahdi04/GEN-AI))| 👨🏻‍💻 [Recommender System using machine learning](https://github.com/SayedMahdi04/GEN-AI)| 
 | :-:| :-:| 
-| [<img src = "project1.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Customer_Segmentation)| [<img src = "recommend.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Movie-Recommendation-on-IMDB-Dataset)
+| [<img src = "project1.png" width = 500 height = 300/>](https://github.com/SayedMahdi04/GEN-AI)| [<img src = "recommend.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Movie-Recommendation-on-IMDB-Dataset)
 
 | 🏭 [Credit Card Fraud Detaction using machine learning ](https://github.com/Shankar-Gurjar/Fraud-Detection)| [☎️ _Diabetes Prediction- Using Random forest__](https://github.com/Shankar-Gurjar/Diabetes_Prediction)|
 | :-:| :-:| 
